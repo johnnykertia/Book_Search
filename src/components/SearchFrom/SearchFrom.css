@@ -1,0 +1,17 @@
+.search-form {
+        width: 100%;
+        max-width: 400px;
+}
+
+.search-form-elem {
+        padding: 0.4rem 2rem;
+        border-radius: 20px;
+}
+
+.search-form-elem .form-control {
+        font-size: 1rem;
+}
+
+.search-form-elem .form-control:hover {
+        opacity: 0.4;
+}
